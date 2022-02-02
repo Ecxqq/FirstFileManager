@@ -1,0 +1,9 @@
+C:\Users\Kurbatov\Documents\SharpDevelop Projects\FailoviiProcessor\FailoviiProcessor\obj\Debug\FailoviiProcessor.csprojResolveAssemblyReference.cache
+C:\Users\Kurbatov\Documents\SharpDevelop Projects\FailoviiProcessor\FailoviiProcessor\obj\Debug\FailoviiProcessor.MainForm.resources
+C:\Users\Kurbatov\Documents\SharpDevelop Projects\FailoviiProcessor\FailoviiProcessor\obj\Debug\FailoviiProcessor.csproj.GenerateResource.Cache
+C:\Users\Kurbatov\Documents\SharpDevelop Projects\FailoviiProcessor\FailoviiProcessor\bin\Debug\FailoviiProcessor.exe.config
+C:\Users\Kurbatov\Documents\SharpDevelop Projects\FailoviiProcessor\FailoviiProcessor\bin\Debug\FailoviiProcessor.exe
+C:\Users\Kurbatov\Documents\SharpDevelop Projects\FailoviiProcessor\FailoviiProcessor\bin\Debug\FailoviiProcessor.pdb
+C:\Users\Kurbatov\Documents\SharpDevelop Projects\FailoviiProcessor\FailoviiProcessor\obj\Debug\FailoviiProcessor.exe
+C:\Users\Kurbatov\Documents\SharpDevelop Projects\FailoviiProcessor\FailoviiProcessor\obj\Debug\FailoviiProcessor.pdb
+C:\Users\Kurbatov\Documents\SharpDevelop Projects\FailoviiProcessor\FailoviiProcessor\obj\Debug\FailoviiProcessor.InputBox.resources
